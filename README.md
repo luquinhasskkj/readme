@@ -73,6 +73,14 @@ Aplicação de receitas acessíveis e simples.
 
 ---
 
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/lucashenrique1-coder/lucashenrique1-coder/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## 📫 Contato
 
 <p align="left">
