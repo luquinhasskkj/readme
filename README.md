@@ -29,13 +29,11 @@
 
 ---
 
-### 📊 Estatísticas
+## 📊 GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucashenrique1-coder&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashenrique1-coder&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucashenrique1-coder&theme=tokyonight" />
 
 </div>
 
