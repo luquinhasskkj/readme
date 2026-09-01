@@ -99,6 +99,6 @@ Aplicação de receitas acessíveis e simples.
 
 <div align="center">
 
-### "Disciplina hoje, liberdade amanhã."
+
 
 </div>
